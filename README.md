@@ -2,7 +2,6 @@
 
 - [Course Details](https://wl11gp.neu.edu/udcprod8/bwckctlg.p_disp_course_detail?cat_term_in=201830&subj_code_in=CSYE&crse_numb_in=7245)
 - Author : Akash M Dubey 
-- 
 
 ### Requirements
 
